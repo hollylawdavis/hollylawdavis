@@ -30,10 +30,11 @@
 
 <h2>🌱 Current Focus Areas</h2>
 
-- Offensive security testing (penetration testing, ethical hacking)
-- Secure coding and application hardening
-- Cloud security fundamentals (AWS & Azure basics)
-- Real-world cyber risk analysis and mitigation
+- Learning how to properly approach penetration testing — not just running tools, but really understanding what’s happening
+- Building a strong foundation through platforms like TryHackMe and PortSwigger
+- Exploring secure coding practices and how to actually make applications harder to exploit
+- Starting to dip into cloud security 
+- Trying to connect what I learn to real-world risks — understanding how vulnerabilities impact people and systems, and how to fix them responsibly
 
 ---
 
