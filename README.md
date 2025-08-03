@@ -15,13 +15,13 @@
   Worked with encryption algorithms, hashing functions, and secure communication protocols. Developed sample applications demonstrating how cryptographic concepts protect data in transit and at rest.
 
 - <b>💻 System Exploitation: Buffer Overflow & Format Strings</b>  
-  Gained hands-on experience exploiting memory-based vulnerabilities within a Linux environment. Explored how protections like ASLR, stack canaries, and DEP help mitigate these attacks.
+  Gained hands-on experience exploiting memory-based vulnerabilities within a Linux environment. 
 
 - <b>🌐 Web Vulnerability Testing (SQLi, XSS, CSRF)</b>  
   Exploited common web vulnerabilities in a safe lab environment. Gained a strong understanding of how malicious payloads can manipulate front-end and back-end logic, and how to defend against them.
 
 - <b>🔍 Penetration Testing & Threat Modelling</b>  
-  Conducted penetration tests on simulated systems and built threat models to assess system risks. Used OWASP Top 10 and STRIDE methodologies to identify vulnerabilities and recommend mitigations.
+  Conducted penetration tests on simulated systems and built threat models to assess system risks. 
 
 - <b>🕸️ Secure Web Development with CakePHP</b>  
   Contributed to the development and security testing of CakePHP-based web applications. Identified weaknesses through manual and basic automated testing to improve site resilience.
