@@ -17,7 +17,7 @@
 - <b>💻 System Exploitation: Buffer Overflow & Format Strings</b>  
   Gained hands-on experience exploiting memory-based vulnerabilities within a Linux environment. 
 
-- <b>🌐 Web Vulnerability Testing (SQLi, XSS, CSRF)</b>  
+- <b>🌐 Web Vulnerability Testing (SQL, XSS, CSRF)</b>  
   Exploited common web vulnerabilities in a safe lab environment. Gained a strong understanding of how malicious payloads can manipulate front-end and back-end logic, and how to defend against them.
 
 - <b>🔍 Penetration Testing & Threat Modelling</b>  
